@@ -33,3 +33,4 @@ supabase/.temp/
 
 # Local database backup
 supabase_schema_backup.sql
+supabase_data_backup.sql
